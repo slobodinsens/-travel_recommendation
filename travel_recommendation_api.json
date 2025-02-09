@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Paris, France",
+        "imageUrl": "images/paris.jpg",
+        "description": "Experience the romance of Paris with its iconic landmarks, exquisite cuisine, and vibrant culture."
+    },
+    {
+        "name": "Tokyo, Japan",
+        "imageUrl": "images/tokyo.jpg",
+        "description": "Discover the unique blend of tradition and technology in Tokyo, from ancient temples to futuristic skyscrapers."
+    },
+    {
+        "name": "New York City, USA",
+        "imageUrl": "images/nyc.jpg",
+        "description": "Explore the city that never sleeps, with its bustling streets, world-famous landmarks, and diverse culture."
+    },
+    {
+        "name": "Sydney, Australia",
+        "imageUrl": "images/sydney.jpg",
+        "description": "Enjoy the stunning harbor views, beautiful beaches, and vibrant nightlife of Sydney."
+    },
+    {
+        "name": "Rome, Italy",
+        "imageUrl": "images/rome.jpg",
+        "description": "Step back in time and explore the ancient ruins, breathtaking art, and rich history of Rome."
+    }
+]
